@@ -1,0 +1,26 @@
+
+
+ 
+Why Give It A Birth?
+--------------------
+* Desktop checklists, a quick TODO-list like tool.
+  Inspired by the checklists used by aviators, as mentioned in the 
+* book 'Programming 16-bit Microcontroller, learn to fly'
+* maintainer: realalien@gmail.com 
+ 
+ 
+First group of target users
+---------------------------
+* Spicyhorse buildbot related tasks.
+* Technical notes for realalien@gmail.com, e.g. game dev
+
+
+
+Developer Notes:
+-----------------
+
+
+20090831:
+* SUG: use it to model after the buildbot's master/slave mode!
+* SUG: web based share mode, contribution to the domestic knowledge base!
+* TODO: temp saving function.
